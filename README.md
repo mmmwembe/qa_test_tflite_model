@@ -57,7 +57,7 @@
 ```bash
     python3 label_image.py \
      --image /tmp/images/test-bs-50.jpeg \
-     --model /tmp/detect.tflite \
-     --labels /tmp/cards_labels.txt
+     --model_file /tmp/detect.tflite \
+     --label_file /tmp/cards_labels.txt
 ```
 
