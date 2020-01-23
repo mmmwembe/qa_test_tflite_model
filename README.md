@@ -16,8 +16,8 @@
 
 ```
     python3 label_image.py \
-     --image /tmp/test-bs-50.jpeg \
+     --image /tmp/images/test-bs-50.jpeg \
      --model /tmp/detect.tflite \
-     --labels /tmp/card_labels.txt
+     --labels /tmp/cards_labels.txt
 ```
 
