@@ -9,8 +9,8 @@
 #
 # python3 label_image.py \
 #  --image /tmp/grace_hopper.bmp \
-#  --model /tmp/mobilenet_v1_1.0_224_quant.tflite \
-#  --labels /tmp/labels_mobilenet_quant_v1_224.txt
+#  --model_file /tmp/mobilenet_v1_1.0_224_quant.tflite \
+#  --label_file /tmp/labels_mobilenet_quant_v1_224.txt
 # ==============================================================================
 """label_image for tflite."""
 
